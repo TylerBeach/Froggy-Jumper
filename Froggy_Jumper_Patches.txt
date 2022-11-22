@@ -1,0 +1,30 @@
+Froggy_Jumper_1.0
+    - First playable state
+
+Froggy_Jumper_1.1
+    - Added daytime to nighttime
+    - Lowered fly height by 50
+        200 --> 250
+    - Increased Strength of Gravity by 50%
+        1 --> 1.5
+
+
+Future Changes
+    Rocks
+        - Similar to Snakes
+        - Gives zero points when passed
+        - Must Jump Over them
+        - Instant Death
+    Game Tutorial
+        - Explain Game
+            - Eating Fly Gives 2 Points
+            - Jumping Over a Snake Gives 1 Point
+            - Hitting a Snake Loses 1 Health
+            - Hitting Rock Loses all health
+    Frog Stomping
+        - Press Down while in the air to stomp on a Snake
+        - Kills Snake
+    Extra Life
+        - Every certain amount a chance for an extra heart back
+        - Similar to eating flies
+        - Maybe GOLDEN FLY
